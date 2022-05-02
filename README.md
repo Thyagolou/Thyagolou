@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thyagolou
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning HTML5, CSS3, Javascript, BootStrap, jQuery, TypeScript, PHP, MySQL, AJAX, SEO and Python
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, BootStrap, jQuery, TypeScript, PHP, MySQL, AJAX, SEO and Python (trying Flutter & Dart)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
